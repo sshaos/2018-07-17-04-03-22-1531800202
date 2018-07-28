@@ -1,4 +1,4 @@
 module.exports = function main() {
-    console.log("Debug Info");
+    console.log("Debug Infos");
     return 'Hello World!';
 };
